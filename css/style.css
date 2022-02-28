@@ -11,3 +11,10 @@ img {
   top: 0;
   opacity: 0.8;
 }
+
+#clock {
+  font-size: 5rem;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
