@@ -16,5 +16,19 @@ img {
   font-size: 5rem;
   display: flex;
   justify-content: center;
-  justify-items: center;
+  align-items: center;
+  margin-top: 200px;
+}
+
+#weather {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  color: #fff;
+}
+
+#quote {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
