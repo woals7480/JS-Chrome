@@ -16,7 +16,6 @@ img {
   font-size: 5rem;
   display: flex;
   justify-content: center;
-  align-items: center;
   margin-top: 200px;
 }
 
@@ -30,5 +29,38 @@ img {
 #quote {
   display: flex;
   justify-content: center;
-  align-items: center;
+  padding-top: 350px;
+}
+
+#login-form {
+  margin-bottom: 30px;
+}
+
+#login-form input {
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+  height: 30px;
+}
+
+#greeting {
+  text-align: center;
+}
+
+#todo-form {
+  margin-bottom: 20px;
+}
+
+#todo-form input {
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+  height: 30px;
+}
+
+#todo-list {
+  margin: 0 auto;
+  width: 250px;
+  height: 30px;
+  mar
 }
